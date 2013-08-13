@@ -1,4 +1,4 @@
-Pair-Problem-PHP
+Pair Solutions :: PHP
 ================
 
 
